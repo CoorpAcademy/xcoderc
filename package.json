@@ -1,10 +1,10 @@
 {
-  "name": "xcoderc",
+  "name": "@coorpacademy/xcoderc",
   "version": "1.0.5",
-  "description": "Used to lock, check and use Xcode version in your project.",
-  "homepage": "https://github.com/vincentcatillon/xcoderc",
+  "description": "Fork: Used to lock, check and use Xcode version in your project.",
+  "homepage": "https://github.com/coorpacademy/xcoderc",
   "bugs": {
-    "url": "https://github.com/vincentcatillon/xcoderc/issues",
+    "url": "https://github.com/coorpacademy/xcoderc/issues",
     "email": "contact@vincent-catillon.fr"
   },
   "keywords": [
